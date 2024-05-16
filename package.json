@@ -1,8 +1,8 @@
 {
-  "name": "cyberminds",
+  "name": "cybermind",
   "version": "0.1.0",
   "private": true,
-  "hompage":"https://Pandithevan96.github.io/cyberminds",
+  "homepage": "https://Pandithevan96.github.io/cyberminds",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
