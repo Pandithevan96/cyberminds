@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cyberminds/static/css/main.0b49a94d.css",
-    "main.js": "/cyberminds/static/js/main.07fa657d.js",
+    "main.js": "/cyberminds/static/js/main.94c66bd6.js",
     "static/js/453.4a0af56a.chunk.js": "/cyberminds/static/js/453.4a0af56a.chunk.js",
     "static/media/logo.svg": "/cyberminds/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cyberminds/index.html",
     "main.0b49a94d.css.map": "/cyberminds/static/css/main.0b49a94d.css.map",
-    "main.07fa657d.js.map": "/cyberminds/static/js/main.07fa657d.js.map",
+    "main.94c66bd6.js.map": "/cyberminds/static/js/main.94c66bd6.js.map",
     "453.4a0af56a.chunk.js.map": "/cyberminds/static/js/453.4a0af56a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b49a94d.css",
-    "static/js/main.07fa657d.js"
+    "static/js/main.94c66bd6.js"
   ]
 }
