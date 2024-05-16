@@ -100,8 +100,8 @@ const [comments, setComments] = useState([
           </div>
         ) : (
           <div className='d-flex'>
-            <BiEdit className='mx-1 mt text-danger' onClick={() => setEditMode(index)} />
-            <BiTrash className='mx-1 mt text-danger' onClick={() => deleteComment(index)} />
+            <BiEdit className='mx-1 mt text-danger icons' onClick={() => setEditMode(index)} />
+            <BiTrash className='mx-1 mt text-danger icons' onClick={() => deleteComment(index)} />
           </div>
         )}
       </div>
